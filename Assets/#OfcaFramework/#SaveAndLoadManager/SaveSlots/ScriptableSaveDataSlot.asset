@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6fd1536182ea2e47846e2981d6bf038, type: 3}
+  m_Name: ScriptableSaveDataSlot
+  m_EditorClassIdentifier: 
+  customDescription:
+    description: Edit me, please.
+  value: 
+  defaultValue: 
+  lastPostProcessorValue: C:/Users/micha/AppData/LocalLow/Sheephog Games/FOCA BOI
+    CAMERA/Slot4/
+  updateValueOnValidate: 1
+  scriptableVariableTraits: []
+  saveAndLoadTrait: {fileID: 0}
+  callEventEveryValueChangeTry: 0
+  scriptableVariableManualCallValueProcessors: []
+  scriptableVariableOnEnableValueProcessor: {fileID: 11400000, guid: 8bbdedcabd6bb2244a1a63c294960985, type: 2}
+  scriptableVariableStaticValueProcessor: {fileID: 11400000, guid: 8bbdedcabd6bb2244a1a63c294960985, type: 2}

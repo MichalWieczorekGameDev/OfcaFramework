@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4992e98bf26f98e40917831dc8ed453d, type: 3}
+  m_Name: ScriptableSaveDataSlotProcessor
+  m_EditorClassIdentifier: 
+  saveDataSlotsList:
+  - {fileID: 11400000, guid: d29485aae0c01df4e93b8e2d81e1fb9a, type: 2}
+  - {fileID: 11400000, guid: b9f67d1777b174044b8cbb20eb9af8e7, type: 2}
+  - {fileID: 11400000, guid: da96ac796ee7b31458c2cb803a633f5d, type: 2}
+  - {fileID: 11400000, guid: 54f86a07f92873b42b6a0898b5eb7850, type: 2}
+  - {fileID: 11400000, guid: 54c0c3a5e7315734cb26705a13312ea5, type: 2}
+  currentSaveDataSlotIndex: 4
+  currentSaveDataSlotName: Slot5
